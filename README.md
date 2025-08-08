@@ -26,6 +26,10 @@ E este é o mockup:
 
 <img width="409" height="309" alt="image" src="https://github.com/user-attachments/assets/07e68448-8b72-4952-9722-d74c2bb75ce8" />
 
+Link do protótipo direto do figma:
+
+https://www.figma.com/proto/e2YyF6FFscIE40ZDaf17eA/Sem-t%C3%ADtulo?node-id=1-4&p=f&t=tRybtyeNDAgdLPy7-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A4
+
 
 Conclusão sobre o projeto de prototipação:
 
